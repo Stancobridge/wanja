@@ -1,0 +1,14 @@
+{
+  "name": "wanja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Okechukwu Stanley",
+  "license": "ISC",
+  "dependencies": {
+    "extract-zip": "^1.6.7"
+  }
+}
